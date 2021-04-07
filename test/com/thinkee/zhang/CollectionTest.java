@@ -14,7 +14,7 @@ public class CollectionTest {
 
     @org.junit.Test
     public void forEach() {
-        List<String> list = new ArrayList<String>();
+        ArrayList<String> list = new ArrayList<String>();
         list.add("a");
         list.add("b");
         for (Iterator<String> iterator = list.iterator(); iterator.hasNext(); ) {
