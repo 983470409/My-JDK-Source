@@ -25,7 +25,7 @@ Error:java: OutOfMemoryError: insufficient memory
 ![image.png](https://zhangyuxiangplus.oss-cn-hangzhou.aliyuncs.com/boke//image_1617714594462.png)
 
 
-## debug的过程中发现debug的源码不是自己工程的源码
+## 3.debug的过程中发现debug的源码不是自己工程的源码
 
 ### 错误原因
 项目设置的源码路径可能仍然为你本地jdk的源码路径
